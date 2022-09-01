@@ -1,0 +1,134 @@
+
+.background {
+    background: black;  
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#option-primary {
+    background: #E75480; 
+    background: lightslategray;
+    text-align: center;
+    margin: 50px; 
+    padding: 20px; 
+    border-radius: 10px;
+}
+
+.footer{
+    padding: 25px; 
+    color: white; 
+    margin: 0 auto; 
+    text-align: center;
+}
+.box {
+    background: #3CB371;
+    padding: 1px; 
+    height: 10%;
+    border: 1px solid #E75480; 
+    border-radius: 14px; 
+    width: 30%; 
+    margin: 0 auto; 
+
+}
+
+.box:hover{
+    background:#E75480; 
+    display: block; 
+    color: white; 
+}
+
+.item-category {
+    padding: 5px; 
+    margin: 5px 0; 
+    border-radius: 4px; 
+    text-decoration: none; 
+    color: white;
+
+} 
+
+.item-category-result {
+    margin-top: 50%; 
+    border-radius: 4px;
+    vertical-align: middle;
+    padding-top: 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none; 
+    color: white;
+}
+
+.option-text{
+    color: black; 
+    font-family: serif;
+    text-transform: capitalize; 
+    padding: 4px 4px;
+     color: black;
+}
+
+.input-group {
+    width: 30% !important; 
+    margin: 10px auto; 
+    padding: 0px 40px 0 0;
+}
+
+#details {
+    position: relative;
+    top: 20px; 
+    color:white; 
+    font-size: 2rem; 
+    padding: 20px; 
+    display: flex;
+    max-width: 30%; 
+    border-radius: 10px;
+    color: black;
+    margin: 0 auto;
+    justify-content: center; 
+    font-family: 'Courier New';
+}
+
+.box-container {
+    text-align: center; 
+    margin: 0 auto; 
+    vertical-align: middle;
+}
+.option-text {
+    margin-top: 4px;
+    font-family: 'Courier New';
+    color:#22BA1A; 
+    color: black; 
+}
+
+.btn{
+    margin: 0 2px !important;
+    padding: 3px 5px !important; 
+}
+
+a:hover{
+color: white; 
+}
+
+.select-film-header {
+    padding: 20px;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.choose-title{
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto; 
+    width: 100vw- 40px; 
+    background: white; 
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.preview {
+    padding: 10px; 
+    margin: 10px; 
+}
+
+

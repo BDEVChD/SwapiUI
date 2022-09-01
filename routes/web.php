@@ -8,6 +8,8 @@ Route::get('/{category?}/{id?}', [Starcontroller::class, 'show']);
 
 Route::post('/itemsearch', [Starcontroller::class, 'search']); 
 
+//test
+
 
 
 
